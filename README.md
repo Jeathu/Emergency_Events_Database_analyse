@@ -5,6 +5,15 @@
 <br>
 <br>
 
+>- Outil de visualisation de données : **Tableau**
+
+<br>
+
+![Tableau](./image/tableau-logo.svg)
+
+<br>
+<br>
+
 # **_Partie 4 — Premières visualisations_**
 
 ## Exercice 1 — Catastrophes par type
