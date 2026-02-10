@@ -1,5 +1,19 @@
 > Info : Ce TP est basé sur le dataset [EM-DAT](https://www.emdat.be/), qui recense les catastrophes naturelles à travers le monde. Vous pouvez télécharger le fichier Excel et l'importer dans Tableau.
 
+<br>
+
+<div align="center">
+
+![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white)
+![Level](https://img.shields.io/badge/Level-Master-orange)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Tableau-E97627?logo=tableau&logoColor=white)
+![Dataset](https://img.shields.io/badge/Dataset-EM--DAT-4CAF50)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+</div>
+
+<br>
+
 - **_Lien de tableau Public :_** [https://public.tableau.com/app/profile/jeathusan.kugathas/viz/TP1_Catastrophes_Naturelles_Jeathusan_KUGATHAS_M1IBD_paris8/volutiondansletemps](https://public.tableau.com/app/profile/jeathusan.kugathas/viz/TP1_Catastrophes_Naturelles_Jeathusan_KUGATHAS_M1IBD_paris8/volutiondansletemps)
 
 <br>
